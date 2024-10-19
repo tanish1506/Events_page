@@ -4,8 +4,6 @@
 
 }
 body{
-    /* font-family: Arial, sans-serif; */
-    /* background: linear-gradient(to bottom, #38006b, #7b00ff); */
     background: url("664f174c5e1aad0fd430c975_background-art.webp");
     color: white;
     background-repeat: no-repeat;
@@ -16,7 +14,7 @@ body{
 .event-section{
     text-align: center;
     padding: 50px 20px;
-    /* background-color: red; */
+    
 }
 .event-grid{
     display: flex;
@@ -28,7 +26,6 @@ body{
 .event-box{
     width: 25vw;
     height: 30vh;
-    /* background-color: blue; */
     border: 2px solid transparent;
     border-radius: 0.7em;
     box-shadow: 0px 0px 15px  rgba(0, 0, 0, 0.6);
